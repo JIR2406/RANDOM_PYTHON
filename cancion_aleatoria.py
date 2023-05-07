@@ -8,8 +8,8 @@ from time import sleep
 
 
 flag = 0
-client_id = "d2308f4bb74d444ead50db73515d6f63"
-client_secret = "6861bffcdd6c4bafa1a1cf7fe7b45563"
+client_id = ""
+client_secret = ""
 autor = 'Post Malone' 
 song = "Sunflower".upper()
 
